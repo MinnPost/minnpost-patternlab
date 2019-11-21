@@ -19,7 +19,7 @@ To install, download this repository and run `npm install`. We're basing this on
 
 For now, this is the possible pattern list. Probably it will change as patterns get built out.
 
-### Patterns
+### Patterns / Atoms
 
 #### Grid
 
@@ -56,7 +56,7 @@ For now, this is the possible pattern list. Probably it will change as patterns 
 - End bug
 - Default image
 
-### Components
+### Components / Molecules
 
 #### Global
 - Logo
@@ -122,7 +122,7 @@ For now, this is the possible pattern list. Probably it will change as patterns 
 #### Page
 - Page header
 
-### Component Groups
+### Component Groups / Organisms
 
 #### Global
 - Header
@@ -194,3 +194,8 @@ For now, this is the possible pattern list. Probably it will change as patterns 
 - Search results
 - Archive
 - Page
+
+### Pages
+
+These are the specific pages for prototyping, at least initially.
+
