@@ -177,6 +177,9 @@ For now, this is the possible pattern list. Probably it will change as patterns 
 
 #### Funder
 - Sponsor
+- Donor group
+- Advertiser
+- Partner
 
 ### Templates
 
